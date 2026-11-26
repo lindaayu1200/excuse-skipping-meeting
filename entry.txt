@@ -1,0 +1,1 @@
+I'm skipping Fauzan's meeting: I found a race condition in his Zoom invite—every time I accept, it schedules another meeting, so I'm patching the organizer.
